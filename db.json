@@ -7,5 +7,33 @@
       "image": "https://openmoji.org/data/color/svg/1FA99.svg",
       "name": "Gold"
     },
+    {
+      "id":"0000000000000000000000000000000000000000000000000000000000000001",
+      "description": "GameItems - Gold",
+      "external_url": "https://forum.openzeppelin.com",
+      "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+      "name": "Gold"
+    },
+    {
+      "id":"0000000000000000000000000000000000000000000000000000000000000002",
+      "description": "GameItems - Gold",
+      "external_url": "https://forum.openzeppelin.com",
+      "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+      "name": "Gold"
+    },
+    {
+      "id":"0000000000000000000000000000000000000000000000000000000000000003",
+      "description": "GameItems - Gold",
+      "external_url": "https://forum.openzeppelin.com",
+      "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+      "name": "Gold"
+    },
+    {
+      "id":"0000000000000000000000000000000000000000000000000000000000000004",
+      "description": "GameItems - Gold",
+      "external_url": "https://forum.openzeppelin.com",
+      "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+      "name": "Gold"
+    }
    ]
 }
